@@ -42,8 +42,8 @@ $ pod install
 ## Usage
 
 Drag A UIButton into view of your view controller, assign it custom class MaterialPushButton to Button.
-![](MaterialPushButton.gif)
-![](MaterialPushButtonDemo.gif)
+![](https://github.com/DominatorVbN/MaterialPushButton/blob/master/MaterialPushButton.gif)
+![](https://github.com/DominatorVbN/MaterialPushButton/raw/master/MaterialPushButtonDemo.gif)
 
 
 ## License
