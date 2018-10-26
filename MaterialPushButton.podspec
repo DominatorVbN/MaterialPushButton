@@ -29,8 +29,6 @@ s.framework = "UIKit"
 # 8
 s.source_files = "MaterialPushButton/**/*.{swift}"
 
-# 9
-s.resources = "MaterialPushButton/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
 s.swift_version = "4.2"
