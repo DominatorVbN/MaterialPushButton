@@ -1,11 +1,3 @@
-//
-//  PushButton.swift
-//  Flo
-//
-//  Created by mac on 24/10/18.
-//  Copyright © 2018 Dominator. All rights reserved.
-//
-
 import UIKit
 @IBDesignable
 public class MaterialPushButton: UIButton {
